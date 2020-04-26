@@ -26,7 +26,7 @@
     ]
   },
   {
-    "name": "MemoryRAM",
+    "name": "Memory/RAM",
     "imgsrc": "images/ram.jpg",
     "specs": [
       {
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "name": "HardDisk",
+    "name": "Hard disk",
     "imgsrc": "images/hard disk.jpg",
     "specs": [
       {
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "name": "GraphicsCard",
+    "name": "Graphics Card",
     "imgsrc": "images/graphics card.jpg",
     "specs": [
       {
