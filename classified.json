@@ -1,1 +1,108 @@
-[{"name":"Processor","imgsrc":"images/processor.jpg","specs":[{"title":"Core i9-9900K","price":70.0},{"title":"Core i7-970","price":60.0},{"title":"Core i7-9xx","price":50.0},{"title":"Core i5-6xx","price":40.0},{"title":"Core i3-2xxx","price":30.0}]},{"name":"MemoryRAM","imgsrc":"images/ram.jpg","specs":[{"title":"8GB","price":15.0},{"title":"16GB","price":25.0},{"title":"32GB","price":35.0},{"title":"64GB","price":45.0}]},{"name":"SSD","imgsrc":"images/ssd.jpg","specs":[{"title":"50GB","price":50.0},{"title":"100GB","price":100.0},{"title":"200GB","price":200.0}]},{"name":"HardDisk","imgsrc":"images/hard disk.jpg","specs":[{"title":"500GB","price":50.0},{"title":"1TB","price":100.0},{"title":"2TB","price":200.0},{"title":"4TB","price":400.0}]},{"name":"GraphicsCard","imgsrc":"images/graphics card.jpg","specs":[{"title":"Nvidia GTX 1030","price":500.0},{"title":"Nvidia GTX 930","price":400.0},{"title":"Nvidia GTX 830","price":300.0}]}]
+[
+  {
+    "name": "Processor",
+    "imgsrc": "images/processor.jpg",
+    "specs": [
+      {
+        "title": "Core i9-9900K",
+        "price": 70
+      },
+      {
+        "title": "Core i7-970",
+        "price": 60
+      },
+      {
+        "title": "Core i7-9xx",
+        "price": 50
+      },
+      {
+        "title": "Core i5-6xx",
+        "price": 40
+      },
+      {
+        "title": "Core i3-2xxx",
+        "price": 30
+      }
+    ]
+  },
+  {
+    "name": "MemoryRAM",
+    "imgsrc": "images/ram.jpg",
+    "specs": [
+      {
+        "title": "8GB",
+        "price": 15
+      },
+      {
+        "title": "16GB",
+        "price": 25
+      },
+      {
+        "title": "32GB",
+        "price": 35
+      },
+      {
+        "title": "64GB",
+        "price": 45
+      }
+    ]
+  },
+  {
+    "name": "SSD",
+    "imgsrc": "images/ssd.jpg",
+    "specs": [
+      {
+        "title": "50GB",
+        "price": 50
+      },
+      {
+        "title": "100GB",
+        "price": 100
+      },
+      {
+        "title": "200GB",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "name": "HardDisk",
+    "imgsrc": "images/hard disk.jpg",
+    "specs": [
+      {
+        "title": "500GB",
+        "price": 50
+      },
+      {
+        "title": "1TB",
+        "price": 100
+      },
+      {
+        "title": "2TB",
+        "price": 200
+      },
+      {
+        "title": "4TB",
+        "price": 400
+      }
+    ]
+  },
+  {
+    "name": "GraphicsCard",
+    "imgsrc": "images/graphics card.jpg",
+    "specs": [
+      {
+        "title": "Nvidia GTX 1030",
+        "price": 500
+      },
+      {
+        "title": "Nvidia GTX 930",
+        "price": 400
+      },
+      {
+        "title": "Nvidia GTX 830",
+        "price": 300
+      }
+    ]
+  }
+]
