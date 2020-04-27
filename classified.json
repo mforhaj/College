@@ -92,7 +92,7 @@
     "imgsrc": "images/graphics card.jpg",
     "specs": [
       {
-        "title": "Nvidia RTX 8000",
+        "title": "Nvidia Quadro RTX 8000",
         "price": 5545.23
       },
       {
@@ -100,7 +100,7 @@
         "price": 2489.99
       },
       {
-        "title": "Nvidia RTX 2080Ti",
+        "title": "Nvidia RTX 2080TI",
         "price": 1289.99
       }
     ]
