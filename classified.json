@@ -12,96 +12,96 @@
         "price": 3321.28
       },
       {
-        "title": "Core i7-9xx",
-        "price": 50
+        "title": "AMD 3970X",
+        "price": 1899.99
       },
       {
-        "title": "Core i5-6xx",
-        "price": 40
+        "title": "Intel 10980XE",
+        "price": 1099.99
       },
       {
-        "title": "Core i3-2xxx",
-        "price": 30
+        "title": "AMD 3900x",
+        "price": 489.99
       }
     ]
   },
   {
-    "name": "Memory/RAM",
+    "name": "RAM",
     "imgsrc": "images/ram.jpg",
     "specs": [
       {
-        "title": "8GB",
-        "price": 15
+        "title": "256GB",
+        "price": 1108.08
       },
       {
-        "title": "16GB",
-        "price": 25
-      },
-      {
-        "title": "32GB",
-        "price": 35
+        "title": "128GB",
+        "price": 748.00
       },
       {
         "title": "64GB",
-        "price": 45
+        "price": 329.99
+      },
+      {
+        "title": "32GB",
+        "price": 139.99
       }
     ]
   },
   {
-    "name": "NVMe SSD",
+    "name": "NVMe-SSD",
     "imgsrc": "images/ssd.jpg",
     "specs": [
       {
-        "title": "50GB",
-        "price": 50
-      },
-      {
-        "title": "100GB",
-        "price": 100
-      },
-      {
-        "title": "200GB",
-        "price": 200
-      }
-    ]
-  },
-  {
-    "name": "Hard disk",
-    "imgsrc": "images/hard disk.jpg",
-    "specs": [
-      {
-        "title": "500GB",
-        "price": 50
-      },
-      {
-        "title": "1TB",
-        "price": 100
+        "title": "4TB",
+        "price": 849.99
       },
       {
         "title": "2TB",
-        "price": 200
+        "price": 699.99
       },
       {
-        "title": "4TB",
-        "price": 400
+        "title": "1TB",
+        "price": 149.99
       }
     ]
   },
   {
-    "name": "Graphics Card",
+    "name": "HDD",
+    "imgsrc": "images/hard disk.jpg",
+    "specs": [
+      {
+        "title": "16TB",
+        "price": 501.99
+      },
+      {
+        "title": "12TB",
+        "price": 329.99
+      },
+      {
+        "title": "8TB",
+        "price": 152.99
+      },
+      {
+        "title": "4TB",
+        "price": 92.99
+      }
+    ]
+  },
+  {
+    "name": "Graphics-Card",
     "imgsrc": "images/graphics card.jpg",
     "specs": [
       {
-        "title": "Nvidia GTX 1030",
-        "price": 500
+        "title": "Nvidia RTX 8000",
+        "price": 5545.23
       },
       {
-        "title": "Nvidia GTX 930",
-        "price": 400
+        "title": "Nvidia Titan RTX",
+        "price": 2489.99
       },
       {
-        "title": "Nvidia GTX 830",
-        "price": 300
+        "title": "Nvidia RTX 2080Ti",
+        "price": 1289.99
       }
     ]
   }
