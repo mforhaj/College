@@ -4,8 +4,8 @@
     "imgsrc": "images/processor.jpg",
     "specs": [
       {
-        "title": "Core i9-9900K",
-        "price": 70
+        "title": "AMD Threadripper 3990X",
+        "price": 3,749.99
       },
       {
         "title": "Core i7-970",
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "name": "SSD",
+    "name": "NVMe SSD",
     "imgsrc": "images/ssd.jpg",
     "specs": [
       {
