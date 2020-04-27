@@ -5,11 +5,11 @@
     "specs": [
       {
         "title": "AMD 3990X",
-        "price": 3749
+        "price": 3749.99
       },
       {
-        "title": "Core i7-970",
-        "price": 60
+        "title": "Intel Xeon W-3175X",
+        "price": 3321.28
       },
       {
         "title": "Core i7-9xx",
