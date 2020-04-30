@@ -5,23 +5,23 @@
     "specs": [
       {
         "title": "AMD 3990X",
-        "price": 3749
+        "price": 3749.99
       },
       {
         "title": "Intel W-3175X",
-        "price": 3321
+        "price": 3321.28
       },
       {
         "title": "AMD 3970X",
-        "price": 1899
+        "price": 1899.99
       },
       {
         "title": "Intel 10980XE",
-        "price": 1099
+        "price": 1099.99
       },
       {
         "title": "AMD 3900x",
-        "price": 489
+        "price": 489.99
       }
     ]
   },
@@ -31,19 +31,19 @@
     "specs": [
       {
         "title": "256GB",
-        "price": 1108
+        "price": 1108.08
       },
       {
         "title": "128GB",
-        "price": 748
+        "price": 748.00
       },
       {
         "title": "64GB",
-        "price": 329
+        "price": 329.99
       },
       {
         "title": "32GB",
-        "price": 139
+        "price": 139.99
       }
     ]
   },
@@ -53,15 +53,15 @@
     "specs": [
       {
         "title": "4TB",
-        "price": 849
+        "price": 849.99
       },
       {
         "title": "2TB",
-        "price": 699
+        "price": 699.99
       },
       {
         "title": "1TB",
-        "price": 149
+        "price": 149.99
       }
     ]
   },
@@ -71,19 +71,19 @@
     "specs": [
       {
         "title": "16TB",
-        "price": 501
+        "price": 501.99
       },
       {
         "title": "12TB",
-        "price": 329
+        "price": 329.99
       },
       {
         "title": "8TB",
-        "price": 152
+        "price": 152.99
       },
       {
         "title": "4TB",
-        "price": 92
+        "price": 92.99
       }
     ]
   },
@@ -93,15 +93,15 @@
     "specs": [
       {
         "title": "Nvidia Quadro RTX 8000",
-        "price": 5545
+        "price": 5545.23
       },
       {
         "title": "Nvidia Titan RTX",
-        "price": 2489
+        "price": 2489.99
       },
       {
         "title": "Nvidia RTX 2080TI",
-        "price": 1289
+        "price": 1289.99
       }
     ]
   }
