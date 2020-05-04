@@ -9,19 +9,19 @@
       },
       {
         "title": "Intel W-3175X",
-        "price": 3321.28
+        "price": 3321.00
       },
       {
         "title": "AMD 3970X",
-        "price": 1899.99
+        "price": 1899.00
       },
       {
         "title": "Intel 10980XE",
-        "price": 1099.99
+        "price": 1099.00
       },
       {
         "title": "AMD 3900x",
-        "price": 489.99
+        "price": 489.00
       }
     ]
   },
@@ -35,15 +35,15 @@
       },
       {
         "title": "128GB",
-        "price": 748.50
+        "price": 748.00
       },
       {
         "title": "64GB",
-        "price": 329.99
+        "price": 329.00
       },
       {
         "title": "32GB",
-        "price": 139.99
+        "price": 139.00
       }
     ]
   },
@@ -53,15 +53,15 @@
     "specs": [
       {
         "title": "4TB",
-        "price": 849.99
+        "price": 849.00
       },
       {
         "title": "2TB",
-        "price": 699.99
+        "price": 699.00
       },
       {
         "title": "1TB",
-        "price": 149.99
+        "price": 149.00
       }
     ]
   },
@@ -71,19 +71,19 @@
     "specs": [
       {
         "title": "16TB",
-        "price": 501.99
+        "price": 501.00
       },
       {
         "title": "12TB",
-        "price": 329.99
+        "price": 329.00
       },
       {
         "title": "8TB",
-        "price": 152.99
+        "price": 152.00
       },
       {
         "title": "4TB",
-        "price": 92.99
+        "price": 92.00
       }
     ]
   },
@@ -93,15 +93,15 @@
     "specs": [
       {
         "title": "Nvidia Quadro RTX 8000",
-        "price": 5545.23
+        "price": 5545.00
       },
       {
         "title": "Nvidia Titan RTX",
-        "price": 2489.99
+        "price": 2489.00
       },
       {
         "title": "Nvidia RTX 2080TI",
-        "price": 1289.99
+        "price": 1289.00
       }
     ]
   }
