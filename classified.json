@@ -1,7 +1,7 @@
 [
   {
     "name": "Processor",
-    "imgsrc": "images/processor.jpg",
+    "imgsrc": "images/processor.png",
     "specs": [
       {
         "title": "AMD 3990X",
@@ -27,7 +27,7 @@
   },
   {
     "name": "RAM",
-    "imgsrc": "images/ram.jpg",
+    "imgsrc": "images/ram.png",
     "specs": [
       {
         "title": "256GB",
@@ -49,7 +49,7 @@
   },
   {
     "name": "NVMe-SSD",
-    "imgsrc": "images/ssd.jpg",
+    "imgsrc": "images/ssd.png",
     "specs": [
       {
         "title": "4TB",
@@ -67,7 +67,7 @@
   },
   {
     "name": "HDD",
-    "imgsrc": "images/hard disk.jpg",
+    "imgsrc": "images/hard disk.png",
     "specs": [
       {
         "title": "16TB",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Graphics-Card",
-    "imgsrc": "images/graphics card.jpg",
+    "imgsrc": "images/graphics card.png",
     "specs": [
       {
         "title": "Nvidia Quadro RTX 8000",
